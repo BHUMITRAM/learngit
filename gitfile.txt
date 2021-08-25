@@ -3,5 +3,6 @@ using namespace std;
 int main()
 {
 cout<<" I am in c++ file\n";
+cout<<"I am in text file\n';
 return 0;
 }
