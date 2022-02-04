@@ -9,5 +9,4 @@ return 0;
 }
 
 /* just creaeted */
-/*just creaeted 2*
-/*just created 3*/
+/*just creaeted 2*/
